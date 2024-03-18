@@ -1,1 +1,2 @@
 # odin_recipes
+My first coding project. Currently I will be working on a basic recipe website, consisting of one main index page with a few links to different recipes. I believe a recipe list is a good first project as a way to practice the most basic elements of HTML. At the end of this assignment I should have some understanding in preparing paragraphs, lists, links, and images onto a webpage.
